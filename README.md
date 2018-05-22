@@ -14,6 +14,6 @@ Runs the app on a connected Android device or emulator. Requires an installation
 
 Runs ESLint on js files
 
-### `ln -sf ../../hooks/pre-commit pre-commit` inside awesome-places/.git/hooks
+#### `ln -sf ../../hooks/pre-commit pre-commit` inside awesome-places/.git/hooks
 
 Creates a symlink for the pre-commit hook
